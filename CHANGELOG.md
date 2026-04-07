@@ -1,3 +1,7 @@
+## 2026-04-07
+
+- Update `Config.on_packchanged` helper to pass plugin data to the callback. This makes it easier to use more universal callbacks in `vim.pack` hooks.
+
 ## 2026-04-02
 
 - Add a note in `nvim-0.11` config about Neovim 0.11 not being the latest stable release.
